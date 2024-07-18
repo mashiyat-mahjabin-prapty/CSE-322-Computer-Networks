@@ -1,0 +1,12 @@
+Number-Of-Packets
+Network-Throughput-(kilobits/sec) End-to-End-Delay-(sec) Packet-Delivery-Ratio-(%) Packet-Drop-Ratio-(%) Energy-Consumed-(J)
+100
+648943   0.227178   98.373   2.19024   1591.19
+200
+564555   0.296981   98.3542   2.46869   1598.19
+300
+612432   0.0748333   98.0788   2.948   1594.52
+400
+626295   0.0492824   97.7383   3.42488   1599.34
+500
+610651   0.129928   98.6342   1.56562   1597.78

@@ -1,0 +1,12 @@
+Number-of-Flows
+Network-Throughput-(kilobits/sec) End-to-End-Delay-(sec) Packet-Delivery-Ratio-(%) Packet-Drop-Ratio-(%) Energy-Consumed-(J)
+10
+653103   0.0970077   99.2128   0.944584   1599.13
+20
+629833   0.055052   98   2.03226   1598.19
+30
+624076   0.116679   98.671   1.71799   1597.33
+40
+635615   0.0931175   96.8917   5.14914   1599.8
+50
+596917   0.151148   96.6447   4.17763   1599.9
